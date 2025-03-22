@@ -1,6 +1,6 @@
 <h1 align="center"><b>Hi, I'm Marco Cortés </b><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
 
-<img alt="Night Coding" src="https://raw.githubusercontent.com/Marcortes22/Marcortes22/main/assets/coding.gif" align="right"  height="200"/>
+<img alt="Night Coding" src="https://raw.githubusercontent.com/Marcortes22/Marcortes22/main/assets/coding.gif" align="right"  height="150"/>
 
 ### 👨🏻‍💻 &nbsp;About Me
 
