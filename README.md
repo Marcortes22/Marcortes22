@@ -4,7 +4,7 @@
 
 ### 👨🏻‍💻 &nbsp;About Me
 
-<img src="https://flagcdn.com/w40/cr.png" width="22" alt="Costa Rica Flag"/>  &nbsp;I from Costa Rica.  
+<img src="https://flagcdn.com/w40/cr.png" width="22" alt="Costa Rica Flag"/>  &nbsp;I'm from Costa Rica.  
 💡 &nbsp;I like to explore new technologies and develop software solutions.  
 🎓 &nbsp;I'm currently studying Software engineering  
 ✍️ &nbsp;In my free time, I dedicate myself to developing personal projects to learn new technologies.  
